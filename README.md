@@ -27,6 +27,22 @@
 ## 📖study
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
+
+## 경력?? 해온것
+
+
+## 교육기간??
+
+## 🎮Project
+
+#### 1. ECO:BACK
+![ECO-Back](https://user-images.githubusercontent.com/89288838/183897523-4c4ef604-4b75-4eb9-83bf-e580a02a9813.png)
+
+[git URL]https://github.com/run-acorn/ZeroWasteRepo.git
+
+
+
+
 ### ✔서비스설명 
 
 ### 나도 제로웨이스트에 동참하고 싶어!!👨‍👩‍👦‍👦 나도 지구를 위한 용기를 가지고 싶어!!😎 
