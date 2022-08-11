@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=1A0F14&height=105&section=footer&text=%20LeeSangHee&fontColor=bfff00&fontSize=70)
+![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=1A0F14&height=105&section=footer&text=%20LeeSangHee&fontColor=bc5e00&fontSize=70)
 
 ## 🙂 About Me 
 
@@ -21,6 +21,7 @@
 ![Java Badge](https://img.shields.io/badge/Java-007396?&style=flat-square&logo=Java&logoColor=white)
 ## Tool
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white)
+![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse_IDE-2C2255?&style=flat-square&logo=EclipseIDE&logoColor=white)
 ## DataBase
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![Mysql Badge](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white)
@@ -36,16 +37,24 @@
 
 
 ## 경력?? 해온것
+
 <table>
     <tr>
         <td>기간</td>
         <td>회사</td>
-        <td>담당업무</td>
+        <td>역할</td>
     </tr>
-
+     <tr>
+        <td>2019.12~2022.02</td>
+        <td>에이본 호텔 군산</td>
+        <td>프론트</td>
+    </tr>
+     <tr>
+        <td>2022.03~2022.08</td>
+        <td>스마트인재개발원</td>
+        <td>빅데이터 과정</td>
+    </tr>
 </table>
-
-## 교육기간??
 
 ## 🎮Project
 
@@ -55,6 +64,10 @@
 [git URL]https://github.com/run-acorn/ZeroWasteRepo.git
 
 
+#### 2. 쇼핑몰 중개 플랫폼
+메인사이트 이미지 
+
+깃허브 주소
 
 
 ### ✔서비스설명 
