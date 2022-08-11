@@ -15,16 +15,21 @@
 
 
 
-## 🪓Skill🪓
-
+## 🪓language🪓
 ![Java Badge](https://img.shields.io/badge/Java-007396?&style=flat-square&logo=Java&logoColor=white)
+## Tool
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white)
+## DataBase
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
+![Mysql Badge](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white)
+## Server
+![Apache Tomcat Badge](https://img.shields.io/badge/Mysql-F8DC75?style=flat-square&logo=Mysql&logoColor=white)
+## Other
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Mysql Badge](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white)
 
-## 📖study
+
+## 📖studying
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 
