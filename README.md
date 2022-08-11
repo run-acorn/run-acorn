@@ -1,3 +1,5 @@
+![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=1A0F14&height=105&section=footer&text=%20LeeSangHee&fontColor=bfff00&fontSize=70)
+
 ## 🙂 About Me 
 
 안녕하세요, 발자취를 남기고 싶은 개발자 입니다.  
@@ -23,7 +25,7 @@
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![Mysql Badge](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white)
 ## Server
-![Apache Tomcat Badge](https://img.shields.io/badge/Mysql-F8DC75?style=flat-square&logo=Mysql&logoColor=white)
+![Apache Tomcat Badge](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black)
 ## Other
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
@@ -34,7 +36,14 @@
 
 
 ## 경력?? 해온것
+<table>
+    <tr>
+        <td>기간</td>
+        <td>회사</td>
+        <td>담당업무</td>
+    </tr>
 
+</table>
 
 ## 교육기간??
 
