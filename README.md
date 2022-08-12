@@ -3,9 +3,10 @@
 ## 🙂 About Me 
 
 안녕하세요, 발자취를 남기고 싶은 개발자 입니다.  
-3년동안 군산 인력거의 창립맴버와 방송출현 경험이 있고  
-호텔 프론트의 서비스를 넘어 이젠 서비스를 개발하는 일을 하고 싶은 신입 개발자 입니다.  
-즐거움과 힘듦을 같이 나누는 동료와 함께 일하는 것을 좋아합니다.  
+3년동안 군산 인력거 창립맴버와 방송출현 서비스 경험이 있고  
+2년간 호텔 프론트일을 하며 Wings 프로그램을 사용해본 경험이 있습니다.
+프로그램 사용을 넘어 프로그램을 개발하는 일을 하고 싶은 신입 개발자 입니다.  
+다년간의 서비스 정신으로 고객과 동료와의 소통과 협업을 중시합니다.  
 누구나 쉽게 할 수 있는 일이 아닌 나만의 발자취를 남기는 일을 좋아합니다.
 
 <br>
@@ -27,20 +28,20 @@
 ![Mysql Badge](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white)
 ## Server
 ![Apache Tomcat Badge](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black)
-## Other
+## 협업
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 
 
 ## 📖studying
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-
+j쿼리 js ajax
 
 ## Experience
 
 <table>
     <tr>
-        <td>기간</td>
+        <td>date</td>
         <td>회사</td>
         <td>역할</td>
     </tr>
