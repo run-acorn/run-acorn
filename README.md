@@ -19,7 +19,7 @@
 
 ## 🪓language🪓
 ![Java Badge](https://img.shields.io/badge/Java-007396?&style=flat-square&logo=Java&logoColor=white)
-## Tool
+## FW Tools
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white)
 ![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse_IDE-2C2255?&style=flat-square&logo=EclipseIDE&logoColor=white)
 ## DataBase
@@ -36,7 +36,7 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 
-## 경력?? 해온것
+## Experience
 
 <table>
     <tr>
