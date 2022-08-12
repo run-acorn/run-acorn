@@ -2,11 +2,10 @@
 
 ## 🙂 About Me 
 
-안녕하세요 발자취를 남기고 싶은 개발자 입니다.  
-3년동안 군산 인력거 창립맴버와 방송출현 서비스 경험이 있고  
-2년간 호텔 프론트일을 하며 Wings 프로그램을 사용해본 경험이 있습니다.  
-프로그램 사용을 넘어 프로그램을 개발하는 일을 하고 싶은 신입 개발자 입니다.  
-다년간의 서비스 정신으로 고객과 동료와의 소통과 협업을 중시합니다.  
+안녕하세요 발자취를 남기고 싶은 개발자 입니다.   
+2년간 호텔 프론트일을 하며 Wings 프로그램 도입 및 사용해본 경험이 있습니다.  
+Wings 프로그램 사용을 넘어 개발하는 일을 하고 싶은 신입 개발자 입니다.  
+다년간의 서비스 경험으로 고객과의 소통과 동료와의 협업을 중시합니다.  
 누구나 쉽게 할 수 있는 일이 아닌 나만의 발자취를 남기는 일을 좋아합니다.
 
 <br>
@@ -17,20 +16,21 @@
 <br>
 
 
+## Skill
 
-## 🪓language🪓
+### Language
 ![Java Badge](https://img.shields.io/badge/Java-007396?&style=flat-square&logo=Java&logoColor=white)
-## FW Tools
+### FW Tools
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white)
 ![MyBatis Badge](https://img.shields.io/badge/MyBatis-2B283A?&style=flat-square&logo=MyBatis&logoColor=white)
-## DataBase
+### DataBase
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![Mysql Badge](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white)
-## Team_Collaboration
+### Team_Collaboration
 ![Github Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 
 
-## 📖studying
+### 📖studying
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
 
@@ -38,9 +38,9 @@
 
 |Type|Date|Contents|Organizaition|
 |:---:|:---:|:---:|:---:|
-|Education|2022.03~2022.08|Bigdata_Analysis_Developer_Program|Smart_Human_Resources_Development|
-|Work_Experience|2019.12~2022.02|Front|AVON_Hotel_Gunsan|
-|Experience|2015.10~2019.0|Manager|Time_Tour_169|
+|Education|2022.03~2022.08|Bigdata Analysis Developer Program|Smart Human Resources Development|
+|Work Experience|2019.12~2022.02|Front|AVON Hotel Gunsan|
+|Experience|2015.10~2019.0|Manager|Time Tour 169|
 
 
 
