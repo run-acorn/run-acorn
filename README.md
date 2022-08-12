@@ -46,13 +46,11 @@ j쿼리 js ajax
         <td>Contents</td>
         <td>Organizaition</td>
     </tr>
-    
     <tr>
         <td>2015.10~2019.04</td>
         <td>part-time_job</td>
         <td>Time_Tour_169</td>
     </tr>
-    
      <tr>
         <td>2019.12~2022.02</td>
         <td>Front</td>
