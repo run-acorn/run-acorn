@@ -40,7 +40,7 @@
 |:---:|:---:|:---:|:---:|
 |Education|2022.03~2022.08|Bigdata_Analysis_Developer_Program|Smart_Human_Resources_Development|
 |Work_Experience|2019.12~2022.02|Front|AVON_Hotel_Gunsan|
-|Experience|2015.10~2019.0|Time_Tour_169|
+|Experience|2015.10~2019.0|Manager|Time_Tour_169|
 
 
 
