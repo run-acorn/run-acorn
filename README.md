@@ -41,7 +41,7 @@ j쿼리 js ajax
 
 <table>
     <tr>
-        <td>Type</td>
+        <td>:Type:</td>
         <td>Date</td>
         <td>Contents</td>
         <td>Organizaition</td>
