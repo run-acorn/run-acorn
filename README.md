@@ -37,7 +37,7 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 j쿼리 js ajax
 
-## Experience
+## Career
 
 <table>
     <tr>
@@ -47,16 +47,19 @@ j쿼리 js ajax
         <td>Organizaition</td>
     </tr>
     <tr>
+        <td>Experience</td>
         <td>2015.10~2019.04</td>
         <td>part-time_job</td>
         <td>Time_Tour_169</td>
     </tr>
      <tr>
+        <td>Work_Experience</td>
         <td>2019.12~2022.02</td>
         <td>Front</td>
         <td>AVON_Hotel_Gunsan</td>
     </tr>
      <tr>
+        <td>Education</td>
         <td>2022.03~2022.08</td>
         <td>Bigdata_Analysis_Developer_Program</td>
         <td>Smart_Human_Resources_Development</td>
