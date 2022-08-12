@@ -41,19 +41,27 @@ j쿼리 js ajax
 
 <table>
     <tr>
-        <td>date</td>
-        <td>회사</td>
-        <td>역할</td>
+        <td>Type</td>
+        <td>Date</td>
+        <td>Contents</td>
+        <td>Organizaition</td>
     </tr>
+    
+    <tr>
+        <td>2015.10~2019.04</td>
+        <td>part-time job</td>
+        <td>Time Tour 169</td>
+    </tr>
+    
      <tr>
         <td>2019.12~2022.02</td>
-        <td>에이본 호텔 군산</td>
-        <td>프론트</td>
+        <td>Front</td>
+        <td>AVON Hotel Gunsan</td>
     </tr>
      <tr>
         <td>2022.03~2022.08</td>
-        <td>스마트인재개발원</td>
-        <td>빅데이터 과정</td>
+        <td>Bigdata Analysis Developer Program</td>
+        <td>Smart Human Resources Development</td>
     </tr>
 </table>
 
