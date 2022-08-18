@@ -2,21 +2,19 @@
 
 ## 🙂 About Me 
 
-안녕하세요 발자취를 남기고 싶은 개발자 입니다.   
-2년간 호텔 프론트일을 하며 Wings 프로그램 도입 및 사용해본 경험이 있습니다.  
-Wings 프로그램 사용을 넘어 개발하는 일을 하고 싶은 신입 개발자 입니다.  
+안녕하세요 **Spring**과 **Sql**을 이용한 **Back-End** 개발을 하고 싶은 **이상희** 입니다.   
+2년간 호텔 프론트일을 하며 Wings 프로그램을 사용해본 경험이 있습니다.  
+Wings 프로그램 사용을 넘어 개발하는 일을 하고 싶습니다.  
 다년간의 서비스 경험으로 고객과의 소통과 동료와의 협업을 중시합니다.  
 누구나 쉽게 할 수 있는 일이 아닌 나만의 발자취를 남기는 일을 좋아합니다.
 
-<br>
-![인력거](https://tv.naver.com/v/2637648/)
 
 <strong>Name</strong> <span>이상희(sanghee Lee)</span><br>
 <strong>E-mail</strong> <span>leehee0143@gmail.com</span>
 <br>
 
 
-## Skill
+## 🛠Skill🛠
 
 ### Language
 ![Java Badge](https://img.shields.io/badge/Java-007396?&style=flat-square&logo=Java&logoColor=white)
