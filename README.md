@@ -40,5 +40,6 @@
 |Experience|2015.10~2019.0|Manager|Time Tour 169|
 
 
-(http://mazassumnida.wtf/api/v2/generate_badge?boj=fkrxkqlwi)](https://solved.ac/fkrxkqlwi/)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fkrxkqlwi)](https://solved.ac/fkrxkqlwi)
